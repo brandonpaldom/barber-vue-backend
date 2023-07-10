@@ -1,0 +1,16 @@
+/node_modules
+
+.env
+
+.DS_Store
+.vscode/
+.idea/
+
+/logs
+
+dist/
+coverage/
+
+*.bak
+*.swp
+*.swo
